@@ -18,7 +18,7 @@ PixelSearch is a simple C project that searches for a specific color on your scr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pixelSearch.git
+   git clone https://github.com/scovl/pixelsearch.git
    cd pixelSearch
    ```
 
