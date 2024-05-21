@@ -79,4 +79,4 @@ Feel free to fork this repository and submit pull requests. If you encounter any
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the BSD 2-Clause License. See the `LICENSE` file for more details.
