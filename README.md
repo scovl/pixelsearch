@@ -39,16 +39,6 @@ PixelSearch is a simple C project that searches for a specific color on your scr
 
    The program will capture a screenshot and search for the specified color. If the color is found, it will print the coordinates of the pixel. If not, it will report a failure.
 
-## Project Structure
-
-- `include/` - Contains header files for the project.
-  - `FastFind.h` - Header for the FastFind functions.
-  - `User.h` - Header for the User structure.
-- `src/` - Contains the source files for the project.
-  - `main.c` - Main program logic.
-  - `FastFind.c` - Implementation of the FastFind functions.
-  - `User.c` - Implementation of the User functions.
-- `Makefile` - Makefile for building the project.
 
 ## Customizing the Search
 
