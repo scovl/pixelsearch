@@ -1,6 +1,6 @@
 # PixelSearch
 
-PixelSearch is a simple C project that searches for a specific color on your screen. This project is designed to demonstrate basic screen capture and pixel color search functionality using a DLL.
+PixelSearch is a simple C project that searches for a specific color on your screen. This project is designed to demonstrate basic screen capture and pixel color search functionality using a DLL **[FastFind](https://github.com/FastFrench/FastFind)**.
 
 ## Features
 
